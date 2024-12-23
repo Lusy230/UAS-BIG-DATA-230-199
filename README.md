@@ -27,6 +27,6 @@ Pada penelitian selanjutnya, disarankan untuk mengeksplor lebih mendalam hubunga
 
 
 
-## Team
+## 👥Team
 - [Lusy Rohmadhoni](https://github.com/Lusy230) - 202110370311230
 - [Wulan Puspita Rahayu](https://github.com/wulanprr) - 202110370311199
