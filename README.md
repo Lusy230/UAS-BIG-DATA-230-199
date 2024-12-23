@@ -21,7 +21,7 @@ Selain itu, hasil dari promosi menunjukkan City Hotel lebih unggul dibandingkan 
 Perbandingan jumlah tamu berulang dan tamu baru dari City Hotel didapatkan total lebih banyak. Dengan begitu menunjukkan bahwa City Hotel berhasil mempertahankan loyalitas pelanggan melalui pengalaman menginap yang memuaskan dan layanan yang konsisten.
 
 ## 📍Kesimpulan
-Frekuensi reservasi City Hotel banyak karena tamu yang datang merupakan tamu berulang dimana tamu tersebut sudah pernah menginap dan sudah mengetahui sistem pemesanan dan cara kerja di hotel tersebut. Selain itu, tingginya frekuensi reservasi juga dapat disebabkan oleh keunggulan lokasi City Hotel yang strategis dan dekat dengan tempat wisata, sehingga menjadi pilihan utama bagi para tamu yang sering melakukan perjalanan. Loyalitas tamu juga bisa didapat oleh program-program promosi, diskon khusu untuk tamu berulang, serta pelayanan yang memuaskan.
+Frekuensi reservasi City Hotel banyak karena tamu yang datang merupakan tamu berulang dimana tamu tersebut sudah pernah menginap dan sudah mengetahui sistem pemesanan dan cara kerja di hotel tersebut. Selain itu, tingginya frekuensi reservasi juga dapat disebabkan oleh keunggulan lokasi City Hotel yang strategis dan dekat dengan tempat wisata, sehingga menjadi pilihan utama bagi para tamu yang sering melakukan perjalanan. Loyalitas tamu juga bisa didapat oleh program-program promosi, diskon khusus untuk tamu berulang, serta pelayanan yang memuaskan.
 
 Pada penelitian selanjutnya, disarankan untuk mengeksplor lebih mendalam hubungan antar variabel yang dapat menghasilkan temuan lebih informatif.
 
